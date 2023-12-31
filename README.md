@@ -1,7 +1,7 @@
 # CDC23
 
 <aside>
-<img src="/icons/conifer-tree_green.svg" alt="/icons/conifer-tree_green.svg" width="40px" /> **Natural Science**
+**Natural Science**
 
 **Dataset:** Wildfires in the US from 2000-2010 
 
