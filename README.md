@@ -1,5 +1,6 @@
 # CDC23
 
+The Carolina Data Challenge is UNC’s weekend-long data science hackathon hosted by Carolina Analytics and Data Science (CADS) in partnership with the UNC Department of Computer Science. Our project focused on displaying geospatial trends in wildfires across the US from 2000-2010. Particularly, we showed that although the more compact states (Arizona, Georgia) have higher numbers of both human and non-human caused wildfires, the sparser states (Idaho, California, Texas) have the higher number of acres burned due to wildfires. We used our analysis to deliver a presentation designed to make the audience feel a sense of nostalgia, which earned us a 1st place finish at the CDC. 
 <aside>
 **Natural Science**
 
@@ -15,5 +16,4 @@
 ****This dataset contains detailed wildfire data from the years 2000-2010. This dataset is extremely large and contains detailed and, at times, verbose information!
 
 
-The Carolina Data Challenge is UNC’s weekend-long data science hackathon hosted by Carolina Analytics and Data Science (CADS) in partnership with the UNC Department of Computer Science. Our project focused on displaying geospatial trends in wildfires across the US from 2000-2010. Particularly, we showed that although the more compact states (Arizona, Georgia) have higher numbers of both human and non-human caused wildfires, the sparser states (Idaho, California, Texas) have the higher number of acres burned due to wildfires. We used our analysis to deliver a presentation designed to make the audience feel a sense of nostalgia, which earned us a 1st place finish at the CDC. 
 </aside>
